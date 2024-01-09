@@ -1713,3 +1713,5 @@ npm run dev
 - to spin up dev server - "npm run dev"
 
 - rest the same - imports/exports, deployment, assets, etc...
+
+-https://amazon-bestseller-clone-project.netlify.app/
